@@ -6,6 +6,8 @@
 
 ## Comida Favorita
 
+### Ramen
+
 ![Image Alt](https://github.com/Hagard98/14-Tigres-Astutos/blob/b4b41b2ff4e9d3e094b0268a2331d54a61f8b3fe/Nicolas%20Rivera/ramen.jpeg)
 
 Dentro de la industria me he familiarizado con el area de ux/ui teniendo en cuenta que la base de los proyectos multimedia es la investigacion en todos los aspectos del usuario final y la implementacion de las herramientas
@@ -14,6 +16,8 @@ mulitmediales para lograr estos objetivos
 ## Ubicacion
 
 Bogota, Colombia
+
+## Perfil
 
 *Soy estudiante de octavo semestre de Ingenieria Multimedia, actualmente cursando programacion para videojuegos, me gusta el area del diseño interactivo y la implementacion de metodologias de investigacion para 
 el desarrollo de aplicaciones que ayuden a solucionar problematicas*
