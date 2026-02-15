@@ -2,7 +2,7 @@
 
 ## Rodrigo Guzman Moreno
 
-![Image Alt](https://github.com/Hagard98/14-Tigres-Astutos/blob/03267fdd73b6b2a5e5709989b3b65d7dfbd305e2/Rodrigo%20Guzman/foto-Rodrigo.jpg)
+![Image Alt](https://github.com/Hagard98/14-Tigres-Astutos/blob/32fb1612827b56c5ae259934ec6ea0ba42d6bd84/Rodrigo%20Guzman/foto-Rodrigo.png)
 
 ## Comida Favorita
 
