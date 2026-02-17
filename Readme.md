@@ -42,3 +42,17 @@ Bogota, Colombia
 
 *Actualmente me encuentro cursando octavo semestre de Ingenieria Multimedia, me apasiona la investigacion y el desarrollo de contenidos multimedia que aporten a la sociedad, apdrender cosas nuevas y desempeñar labores 
 que signifiquen progreso dentro de desarrollo de proyectos en general*
+
+## Danna Valentina Gómez - Integrante 3
+
+![Foto Danna](Danna Gómez/Foto Danna.jpeg)
+
+### Rol en la industria
+Game Designer
+
+### Ubicación
+Colombia
+
+### Perfil
+Estudiante de Ingeniería Multimedia interesada en el diseño y desarrollo de videojuegos, con enfoque en la creación de experiencias interactivas y planificación de mecánicas de juego dentro del motor Unity.
+
