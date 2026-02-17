@@ -1,23 +1,22 @@
-# 14 Tigres Astutos
+# 14 Tigres Astutos 
 
-## Nicolas Rivera Cardozo 
+## Valeria Liseth Gutierrez Luna
 
-![Image Alt](https://github.com/Hagard98/14-Tigres-Astutos/blob/3ac6bfe02122389a18532f1f0ef0668ee6c43ad7/Nicolas%20Rivera/Foto_mia.jpg)
+![Image](https://github.com/user-attachments/assets/eae05289-5753-470c-a036-eaa7d23cc88d)
 
-## Comida Favorita
+## Comida Favorita 
 
-### Ramen
+### Pasta Alfredo 
 
-![Image Alt](https://github.com/Hagard98/14-Tigres-Astutos/blob/b4b41b2ff4e9d3e094b0268a2331d54a61f8b3fe/Nicolas%20Rivera/ramen.jpeg)
+![Image](https://github.com/user-attachments/assets/0cac0dae-8837-411f-998c-c816ede3c835)
 
-Dentro de la industria me he familiarizado con el area de ux/ui teniendo en cuenta que la base de los proyectos multimedia es la investigacion en todos los aspectos del usuario final y la implementacion de las herramientas
-mulitmediales para lograr estos objetivos
+Como ingeniera y productora multimedia me gusta crear historias mediante el diseño interactvio desarrollando proyectos audiovisuales.
 
-## Ubicacion
+## Ubicacion 
 
-Bogota, Colombia
+Bogota, Colombia 
 
-## Perfil
+## Perfil 
 
-*Soy estudiante de octavo semestre de Ingenieria Multimedia, actualmente cursando programacion para videojuegos, me gusta el area del diseño interactivo y la implementacion de metodologias de investigacion para 
-el desarrollo de aplicaciones que ayuden a solucionar problematicas*
+*Soy estudiante de ingenieria multimedia, soy una persona que le gusta crear y desarrollar historias creativas teniendo en cuenta que tengan muchos detalles y se enfoque que sean juegos bastantes interactivos
+y que estos al mismo tiempo dejen un mensaje positivo para los usuarios.*
