@@ -45,7 +45,7 @@ que signifiquen progreso dentro de desarrollo de proyectos en general*
 
 ## Danna Valentina Gómez - Integrante 3
 
-![Foto Danna](Danna Gómez/Foto Danna.jpeg)
+![Image Alt](https://github.com/Hagard98/14-Tigres-Astutos/blob/8cecbafe94e150de5ba4c4aa7c090e8700e23d8a/Danna%20G%C3%B3mez/Foto%20Danna.jpeg)
 
 ### Rol en la industria
 Game Designer
@@ -75,4 +75,5 @@ Bogota, Colombia
 ## Perfil
 
 *Soy estudiante de septimo semestre de Ingenieria Multimedia, soy una persona enfocada en desarrollar propuestas que requieren buena atencion al detalle asi como un esfuerzo por cumplir su proposito, tomando flujos de trabajo que permitan desarrollar cada parte en equipo de una manera adecuada, tranquila y versatil.*
+
 
