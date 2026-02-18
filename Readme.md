@@ -76,4 +76,18 @@ Bogota, Colombia
 
 *Soy estudiante de septimo semestre de Ingenieria Multimedia, soy una persona enfocada en desarrollar propuestas que requieren buena atencion al detalle asi como un esfuerzo por cumplir su proposito, tomando flujos de trabajo que permitan desarrollar cada parte en equipo de una manera adecuada, tranquila y versatil.*
 
+## Julián Tolosa - Integrante 5
 
+![Foto de perfil](https://avatars.githubusercontent.com/u/191293569?v=4)
+
+### Rol
+Modelado 3D Básico y Diseñador de Interfaz
+
+**Ubicación:** Cajicá, Colombia
+
+**Perfil:**  
+Soy estudiante de octavo semestre de Ingeniería Multimedia. Me interesa el diseño de interfaces, modelado 3D básico, motion graphics, edición de video y fotografía. Actualmente curso Programación para Videojuegos y estoy aprendiendo la creación de escenarios 3D.
+
+### Comida favorita
+**Sushi**  
+![Sushi](JulianTolosa/sushii.jpg)
