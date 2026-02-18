@@ -20,4 +20,23 @@ Bogota, Colombia
 ## Perfil
 
 *Soy estudiante de octavo semestre de Ingenieria Multimedia, actualmente cursando programacion para videojuegos, me gusta el area del diseño interactivo y la implementacion de metodologias de investigacion para 
-el desarrollo de aplicaciones que ayuden a solucionar problematicas*
+el desarrollo de aplicaciones que ayuden a solucionar problematicas*z
+
+## Julián Tolosa
+
+![Foto de perfil](https://avatars.githubusercontent.com/u/191293569?v=4)
+
+**Rol:** Modelado 3D Básico y Diseñador de Interfaz  
+**Ubicación:** Cajicá, Colombia  
+
+**Perfil:**  
+Soy estudiante de octavo semestre de Ingeniería Multimedia. Me interesa el diseño de
+interfaces, el modelado 3D básico, motion graphics y la edición de video y fotografía.
+Actualmente curso Programación para Videojuegos y estoy aprendiendo la creación de
+escenarios 3D.
+
+### Comida favorita
+
+**Sushi**
+
+![Sushi](JulianTolosa/sushii.jpg)
